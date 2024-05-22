@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\MiniConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\MiniConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\MiniConsoleApp.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\MiniConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MiniConsoleApp\bin\Debug\net8.0\MiniConsoleApp.exe
+C:\Users\Dell\source\repos\MiniConsoleApp\bin\Debug\net8.0\MiniConsoleApp.deps.json
+C:\Users\Dell\source\repos\MiniConsoleApp\bin\Debug\net8.0\MiniConsoleApp.runtimeconfig.json
+C:\Users\Dell\source\repos\MiniConsoleApp\bin\Debug\net8.0\MiniConsoleApp.dll
+C:\Users\Dell\source\repos\MiniConsoleApp\bin\Debug\net8.0\MiniConsoleApp.pdb
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\MiniConsoleApp.dll
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\refint\MiniConsoleApp.dll
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\MiniConsoleApp.pdb
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\MiniConsoleApp.genruntimeconfig.cache
+C:\Users\Dell\source\repos\MiniConsoleApp\obj\Debug\net8.0\ref\MiniConsoleApp.dll
